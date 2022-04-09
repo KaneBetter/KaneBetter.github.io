@@ -128,11 +128,11 @@ menu:
       name: Notion
       url: https://kaiqinc.notion.site/
       weight: 30
-  outputs:
-    home:
-        - HTML
-        - RSS
-        - JSON # is necessary
+outputs:
+  home:
+      - HTML
+      - RSS
+      - JSON # is necessary
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 # pygmentsUseClasses: true
 # markup:
