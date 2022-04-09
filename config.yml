@@ -46,10 +46,10 @@ params:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
     favicon: "/images/favicon.png"
-    favicon16x16: "/images/favicon16x16.png"
-    favicon32x32: "/images/favicon32x32.png"
-    apple_touch_icon: "/images/apple_touch_icon.png"
-    safari_pinned_tab: "/images/apple_touch_icon.png"
+    favicon16x16: "/images/favicon-16x16.png"
+    favicon32x32: "/images/favicon-32x32.png"
+    apple_touch_icon: "/images/apple-touch-icon.png"
+    safari_pinned_tab: "/images/apple-touch-icon.png"
 
   label:
     text: "Home"
@@ -78,6 +78,8 @@ params:
 
   socialIcons:
     - name: twitter
+      url: "https://twitter.com/"
+    - name: spotify
       url: "https://twitter.com/"
     - name: youtube
       url: "https://twitter.com/"
