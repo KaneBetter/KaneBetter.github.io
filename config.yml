@@ -138,6 +138,10 @@ menu:
       name: Notion
       url: https://kaiqinc.notion.site/
       weight: 30
+    - identifier: about
+      name: About
+      url: https://kanebetter.github.io/resume/
+      weight: 40
 outputs:
   home:
       - HTML
