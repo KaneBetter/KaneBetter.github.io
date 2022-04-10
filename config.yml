@@ -4,11 +4,11 @@ paginate: 5
 theme: PaperMod
 
 enableRobotsTXT: true
-buildDrafts: false
+buildDrafts: true
 buildFuture: false
 buildExpired: false
 
-googleAnalytics: UA-123-45
+googleAnalytics: G-MRV0T2HZ0C
 
 minify:
   disableXML: true
@@ -45,11 +45,11 @@ params:
   assets:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
-    favicon: "/images/favicon.png"
-    favicon16x16: "/images/favicon-16x16.png"
-    favicon32x32: "/images/favicon-32x32.png"
-    apple_touch_icon: "/images/apple-touch-icon.png"
-    safari_pinned_tab: "/images/apple-touch-icon.png"
+    favicon: "/assets/images/favicon.ico"
+    favicon16x16: "/assets/images/favicon-16x16.png"
+    favicon32x32: "/assets/images/favicon-32x32.png"
+    apple_touch_icon: "/assets/images/apple-touch-icon.png"
+    safari_pinned_tab: "/assets/images/apple-touch-icon.png"
 
   label:
     text: "Home"
