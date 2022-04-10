@@ -2,12 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://kanebetter.github.io/search/</loc>
-    <priority>0</priority>
+    <loc>https://kanebetter.github.io/archives/</loc>
+  </url><url>
+    <loc>https://kanebetter.github.io/categories/</loc>
   </url><url>
     <loc>https://kanebetter.github.io/categories/</loc>
   </url><url>
     <loc>https://kanebetter.github.io/</loc>
+  </url><url>
+    <loc>https://kanebetter.github.io/search/</loc>
+  </url><url>
+    <loc>https://kanebetter.github.io/tags/</loc>
   </url><url>
     <loc>https://kanebetter.github.io/tags/</loc>
   </url>
