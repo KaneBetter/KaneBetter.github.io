@@ -68,7 +68,7 @@ params:
     buttons:
       - name: Posts
         url: posts
-      - name: Tags
+      - name: tags
         url: tags
 
   # home-info mode
@@ -78,11 +78,11 @@ params:
 
   socialIcons:
     - name: twitter
-      url: "https://twitter.com/"
+      url: "https://twitter.com/TonyLovrChen"
     - name: spotify
-      url: "https://twitter.com/"
+      url: "https://open.spotify.com/user/21zcpsceeybeaib5xx2bn2pda"
     - name: youtube
-      url: "https://twitter.com/"
+      url: "https://www.youtube.com/channel/UCdo8CzknFdiWYvk9423f-OQ"
     #- name: stackoverflow
     #  url: "https://stackoverflow.com"
     - name: github
@@ -90,7 +90,7 @@ params:
 
   analytics:
     google:
-      SiteVerificationTag: "XYZabc"
+      SiteVerificationTag: "G-MRV0T2HZ0C"
     bing:
       SiteVerificationTag: "XYZabc"
     yandex:
@@ -118,12 +118,20 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
-    - identifier: categories
-      name: categories
-      url: /categories/
+    - identifier: search
+      name: Search
+      url: /search/
       weight: 10
+    - identifier: archive
+      name: Archive
+      url: /archives/
+      weight: 20
+    - identifier: categories
+      name: Categories
+      url: /categories/
+      weight: 20
     - identifier: tags
-      name: tags
+      name: Tags
       url: /tags/
       weight: 20
     - identifier: notion
@@ -135,6 +143,9 @@ outputs:
       - HTML
       - RSS
       - JSON # is necessary
+taxonomies:
+  category: categories
+  tag: tags
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 # pygmentsUseClasses: true
 # markup:
