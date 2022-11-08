@@ -18,3 +18,6 @@ Command Line Results
 
 As an alternative we used other online tools like https://codetabs.com/count-loc/count-loc-online.html. As the whole project is too big for the site to compute (853 MB, mainly due to a large .git directory), we uploaded only the `/src` part of the project, and got the following result:
 
+
+
+![1200px-Image_created_with_a_mobile_phone.png](https://raw.githubusercontent.com/KaneBetter/webImage/main/2022/04/10-15-53-06-1200px-Image_created_with_a_mobile_phone.png)
