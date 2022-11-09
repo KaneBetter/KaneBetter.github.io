@@ -9,11 +9,20 @@
       <link>https://kanebetter.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 10 Apr 2022 12:00:51 -0700</lastBuildDate><atom:link href="https://kanebetter.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 09 Nov 2022 09:52:48 -0800</lastBuildDate><atom:link href="https://kanebetter.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Git</title>
+      <link>https://kanebetter.github.io/categories/git/</link>
+      <pubDate>Wed, 09 Nov 2022 09:52:48 -0800</pubDate>
+      
+      <guid>https://kanebetter.github.io/categories/git/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>AA</title>
       <link>https://kanebetter.github.io/categories/aa/</link>
-      <pubDate>Sun, 10 Apr 2022 12:00:51 -0700</pubDate>
+      <pubDate>Mon, 07 Nov 2022 22:17:04 -0800</pubDate>
       
       <guid>https://kanebetter.github.io/categories/aa/</guid>
       <description></description>

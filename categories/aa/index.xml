@@ -9,7 +9,17 @@
       <link>https://kanebetter.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 10 Apr 2022 12:00:51 -0700</lastBuildDate><atom:link href="https://kanebetter.github.io/categories/aa/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 07 Nov 2022 22:17:04 -0800</lastBuildDate><atom:link href="https://kanebetter.github.io/categories/aa/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Create New Article</title>
+      <link>https://kanebetter.github.io/posts/how-to-create-new-article/</link>
+      <pubDate>Mon, 07 Nov 2022 22:17:04 -0800</pubDate>
+      
+      <guid>https://kanebetter.github.io/posts/how-to-create-new-article/</guid>
+      <description>Run command
+hugo new posts/&amp;lt;name&amp;gt;.md git push </description>
+    </item>
+    
     <item>
       <title>Try</title>
       <link>https://kanebetter.github.io/posts/try/</link>

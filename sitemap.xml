@@ -2,26 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://kanebetter.github.io/posts/how-to-create-new-article/</loc>
-    <lastmod>2022-11-07T22:17:04-08:00</lastmod>
+    <loc>https://kanebetter.github.io/categories/</loc>
+    <lastmod>2022-11-09T09:52:48-08:00</lastmod>
+  </url><url>
+    <loc>https://kanebetter.github.io/posts/everything-about-git/</loc>
+    <lastmod>2022-11-09T09:52:48-08:00</lastmod>
+  </url><url>
+    <loc>https://kanebetter.github.io/categories/git/</loc>
+    <lastmod>2022-11-09T09:52:48-08:00</lastmod>
   </url><url>
     <loc>https://kanebetter.github.io/</loc>
-    <lastmod>2022-11-07T22:17:04-08:00</lastmod>
+    <lastmod>2022-11-09T09:52:48-08:00</lastmod>
   </url><url>
     <loc>https://kanebetter.github.io/posts/</loc>
-    <lastmod>2022-11-07T22:17:04-08:00</lastmod>
+    <lastmod>2022-11-09T09:52:48-08:00</lastmod>
   </url><url>
     <loc>https://kanebetter.github.io/tags/</loc>
+    <lastmod>2022-11-09T09:52:48-08:00</lastmod>
+  </url><url>
+    <loc>https://kanebetter.github.io/tags/git/</loc>
+    <lastmod>2022-11-09T09:52:48-08:00</lastmod>
+  </url><url>
+    <loc>https://kanebetter.github.io/categories/aa/</loc>
+    <lastmod>2022-11-07T22:17:04-08:00</lastmod>
+  </url><url>
+    <loc>https://kanebetter.github.io/posts/how-to-create-new-article/</loc>
     <lastmod>2022-11-07T22:17:04-08:00</lastmod>
   </url><url>
     <loc>https://kanebetter.github.io/tags/a/</loc>
     <lastmod>2022-11-07T22:17:04-08:00</lastmod>
-  </url><url>
-    <loc>https://kanebetter.github.io/categories/aa/</loc>
-    <lastmod>2022-04-10T12:00:51-07:00</lastmod>
-  </url><url>
-    <loc>https://kanebetter.github.io/categories/</loc>
-    <lastmod>2022-04-10T12:00:51-07:00</lastmod>
   </url><url>
     <loc>https://kanebetter.github.io/posts/try/</loc>
     <lastmod>2022-04-10T12:00:51-07:00</lastmod>
