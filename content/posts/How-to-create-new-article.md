@@ -3,7 +3,7 @@ title: "How to Create New Article"
 date: 2022-11-07T22:17:04-08:00
 draft: False
 tags: [“A”]
-catogries: ["AA"]
+categories: ["AA"]
 ---
 
 Run command
