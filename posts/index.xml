@@ -25,34 +25,5 @@
   Is there anything to watch out for / anything particularly remarkable?</description>
     </item>
     
-    <item>
-      <title>How to Create New Article</title>
-      <link>https://kanebetter.github.io/posts/how-to-create-new-article/</link>
-      <pubDate>Mon, 07 Nov 2022 22:17:04 -0800</pubDate>
-      
-      <guid>https://kanebetter.github.io/posts/how-to-create-new-article/</guid>
-      <description>Run command
-hugo new posts/&amp;lt;name&amp;gt;.md git push </description>
-    </item>
-    
-    <item>
-      <title>Try</title>
-      <link>https://kanebetter.github.io/posts/try/</link>
-      <pubDate>Sun, 10 Apr 2022 12:00:51 -0700</pubDate>
-      
-      <guid>https://kanebetter.github.io/posts/try/</guid>
-      <description>Overview in Bazel Bazel is an open-source build and test tool similar to Make, Maven, and Gradle. It uses a human-readable, high-level build language. Bazel supports projects in multiple languages and builds outputs for multiple platforms. Bazel supports large codebases across multiple repositories, and large numbers of users.
-LOC Statistics and Measuring At first, we used command git ls-files | grep -E &#39;.java&#39; | xargs wc -l to calculate the LOC of the cloned local repository.</description>
-    </item>
-    
-    <item>
-      <title>My First Post</title>
-      <link>https://kanebetter.github.io/posts/my-first-post/</link>
-      <pubDate>Sat, 09 Apr 2022 16:01:29 -0700</pubDate>
-      
-      <guid>https://kanebetter.github.io/posts/my-first-post/</guid>
-      <description>Hi</description>
-    </item>
-    
   </channel>
 </rss>
