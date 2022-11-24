@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://kanebetter.github.io/cn/sitemap.xml

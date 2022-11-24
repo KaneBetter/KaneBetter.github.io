@@ -2,33 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://kanebetter.github.io/categories/</loc>
-    <lastmod>2022-11-09T09:52:48-08:00</lastmod>
+    <loc>https://examplesite.com/</loc>
+    <lastmod>2022-04-09T14:59:30-07:00</lastmod>
   </url><url>
-    <loc>https://kanebetter.github.io/posts/everything-about-git/</loc>
-    <lastmod>2022-11-09T09:52:48-08:00</lastmod>
+    <loc>https://examplesite.com/posts/my-first-post/</loc>
+    <lastmod>2022-04-09T14:59:30-07:00</lastmod>
   </url><url>
-    <loc>https://kanebetter.github.io/categories/git/</loc>
-    <lastmod>2022-11-09T09:52:48-08:00</lastmod>
+    <loc>https://examplesite.com/posts/</loc>
+    <lastmod>2022-04-09T14:59:30-07:00</lastmod>
   </url><url>
-    <loc>https://kanebetter.github.io/</loc>
-    <lastmod>2022-11-09T09:52:48-08:00</lastmod>
+    <loc>https://examplesite.com/categories/</loc>
   </url><url>
-    <loc>https://kanebetter.github.io/posts/</loc>
-    <lastmod>2022-11-09T09:52:48-08:00</lastmod>
-  </url><url>
-    <loc>https://kanebetter.github.io/tags/</loc>
-    <lastmod>2022-11-09T09:52:48-08:00</lastmod>
-  </url><url>
-    <loc>https://kanebetter.github.io/tags/git/</loc>
-    <lastmod>2022-11-09T09:52:48-08:00</lastmod>
-  </url><url>
-    <loc>https://kanebetter.github.io/archives/</loc>
-  </url><url>
-    <loc>https://kanebetter.github.io/categories/</loc>
-  </url><url>
-    <loc>https://kanebetter.github.io/search/</loc>
-  </url><url>
-    <loc>https://kanebetter.github.io/tags/</loc>
+    <loc>https://examplesite.com/tags/</loc>
   </url>
 </urlset>
