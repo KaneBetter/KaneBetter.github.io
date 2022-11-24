@@ -1,4 +1,4 @@
-baseURL: "https://kanebetter.github.io/"
+baseURL: https://kanebetter.github.io/
 title: Kane
 paginate: 5
 theme: PaperMod
@@ -13,6 +13,18 @@ googleAnalytics: G-MRV0T2HZ0C
 minify:
   disableXML: true
   minifyOutput: true
+
+languages:
+  en:
+    baseURL: https://kanebetter.github.io/
+    languageName: English
+    title: Kane
+    weight: 2
+  cn:
+    baseURL: https://kanebetter.github.io/cn/
+    languageName: Chinese
+    title: Kaiqin
+    weight: 1
 
 params:
 
