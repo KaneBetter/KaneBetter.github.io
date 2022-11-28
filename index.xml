@@ -9,7 +9,19 @@
       <link>https://kanebetter.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 09 Nov 2022 09:52:48 -0800</lastBuildDate><atom:link href="https://kanebetter.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 23 Nov 2022 16:52:45 -0800</lastBuildDate><atom:link href="https://kanebetter.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Top12 Alfred Workflow</title>
+      <link>https://kanebetter.github.io/posts/top12-alfred-workflow/</link>
+      <pubDate>Wed, 23 Nov 2022 16:52:45 -0800</pubDate>
+      
+      <guid>https://kanebetter.github.io/posts/top12-alfred-workflow/</guid>
+      <description>Before I use Alfred, I thought it was not that useful, some YouTubers just exaggerate its function.
+And I will not use it some much time in a day.
+Here is the top 12 workflow I recommend to anyone who uses Mac.
+1. Youtube Music 2. VS Code 3. TimeZone 4. Things 5. Temporary Mail 6. Reminders 7. Notion 8. GitHub 9. Calculate 10. Browser Tabs 11. Advanced Google Map 12.</description>
+    </item>
+    
     <item>
       <title>Everything About Git</title>
       <link>https://kanebetter.github.io/posts/everything-about-git/</link>

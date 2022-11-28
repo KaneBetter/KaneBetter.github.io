@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on Kane</title>
-    <link>https://kanebetter.github.io/posts/</link>
-    <description>Recent content in Posts on Kane</description>
+    <title>“Alfred” on Kane</title>
+    <link>https://kanebetter.github.io/tags/alfred/</link>
+    <description>Recent content in “Alfred” on Kane</description>
     <image>
       <url>https://kanebetter.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://kanebetter.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 23 Nov 2022 16:52:45 -0800</lastBuildDate><atom:link href="https://kanebetter.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 23 Nov 2022 16:52:45 -0800</lastBuildDate><atom:link href="https://kanebetter.github.io/tags/alfred/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Top12 Alfred Workflow</title>
       <link>https://kanebetter.github.io/posts/top12-alfred-workflow/</link>
@@ -20,21 +20,6 @@
 And I will not use it some much time in a day.
 Here is the top 12 workflow I recommend to anyone who uses Mac.
 1. Youtube Music 2. VS Code 3. TimeZone 4. Things 5. Temporary Mail 6. Reminders 7. Notion 8. GitHub 9. Calculate 10. Browser Tabs 11. Advanced Google Map 12.</description>
-    </item>
-    
-    <item>
-      <title>Everything About Git</title>
-      <link>https://kanebetter.github.io/posts/everything-about-git/</link>
-      <pubDate>Wed, 09 Nov 2022 09:52:48 -0800</pubDate>
-      
-      <guid>https://kanebetter.github.io/posts/everything-about-git/</guid>
-      <description>The Perfect Commit   Add the rightchanges
- Include changes for only one topic, git add -p index.html    Compose a goodcommit message, git commit
-  Subject = concise summary of what happened
-  Body = more detailed explanation
-  What is now different then before?
-  What&amp;rsquo;s the reason for the change?
-  Is there anything to watch out for / anything particularly remarkable?</description>
     </item>
     
   </channel>
