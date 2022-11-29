@@ -9,7 +9,17 @@
       <link>https://kanebetter.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 23 Nov 2022 16:52:45 -0800</lastBuildDate><atom:link href="https://kanebetter.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 28 Nov 2022 18:47:25 -0800</lastBuildDate><atom:link href="https://kanebetter.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Intro to Homebrew</title>
+      <link>https://kanebetter.github.io/posts/intro-to-homebrew/</link>
+      <pubDate>Mon, 28 Nov 2022 18:47:25 -0800</pubDate>
+      
+      <guid>https://kanebetter.github.io/posts/intro-to-homebrew/</guid>
+      <description>安装Homebrew 打开终端，复制以下代码到终端，按回车即可：
+/usr/bin/ruby -e &amp;#34;$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)&amp;#34;    词汇 含义     formula (e) 安装包的描述文件，formulae 为复数   cellar 安装好后所在的目录   keg 具体某个包所在的目录，keg 是 cellar 的子目录   bottle 预先编译好的包，不需要现场下载编译源码，速度会快很多；官方库中的包大多都是通过 bottle 方式安装   tap 下载源，可以类比于 Linux 下的包管理器 repository   cask 安装 macOS native 应用的扩展，你也可以理解为有图形化界面的应用。   bundle 描述 Homebrew 依赖的扩展       Command Description     brew search [关键词] search software   brew install [软件名] Install software   brew list List all packages installed   brew upgrade upgrade software   brew uninstall [软件名] Uninstall software   brew info [软件名] Get software info   brew cleanup Clean up old software    管理后台软件 诸如 Nginx、MySQL 等软件，都是有一些服务端软件在后台运行，如果你希望对这些软件进行管理，可以使用 brew services 命令来进行管理</description>
+    </item>
+    
     <item>
       <title>Top12 Alfred Workflow</title>
       <link>https://kanebetter.github.io/posts/top12-alfred-workflow/</link>
