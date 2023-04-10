@@ -15,8 +15,6 @@ minify:
   minifyOutput: true
 
 params:
-
-
   disqusShortname: yourDisqusShortname
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Kane
@@ -73,18 +71,14 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Hi there \U0001F44B"
-    Content: Welcome to my blog
+    Title: Bytes of Life
+    Content: Welcome to my blog. I am a software engineer and this is my personal blog. I write about software development, data science, and other topics that interest me.
 
   socialIcons:
     - name: twitter
       url: "https://twitter.com/TonyLovrChen"
-    - name: spotify
-      url: "https://open.spotify.com/user/21zcpsceeybeaib5xx2bn2pda"
     - name: youtube
       url: "https://www.youtube.com/channel/UCdo8CzknFdiWYvk9423f-OQ"
-    #- name: stackoverflow
-    #  url: "https://stackoverflow.com"
     - name: github
       url: "https://github.com/kanebetter"
 
