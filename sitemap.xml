@@ -2,22 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://kanebetter.github.io/</loc>
+    <lastmod>2023-04-10T16:03:07-07:00</lastmod>
+  </url><url>
+    <loc>https://kanebetter.github.io/posts/</loc>
+    <lastmod>2023-04-10T16:03:07-07:00</lastmod>
+  </url><url>
+    <loc>https://kanebetter.github.io/tags/</loc>
+    <lastmod>2023-04-10T16:03:07-07:00</lastmod>
+  </url><url>
+    <loc>https://kanebetter.github.io/posts/test/</loc>
+    <lastmod>2023-04-10T16:03:07-07:00</lastmod>
+  </url><url>
+    <loc>https://kanebetter.github.io/tags/a/</loc>
+    <lastmod>2023-04-10T16:03:07-07:00</lastmod>
+  </url><url>
     <loc>https://kanebetter.github.io/categories/</loc>
     <lastmod>2022-11-28T18:47:25-08:00</lastmod>
   </url><url>
     <loc>https://kanebetter.github.io/posts/intro-to-homebrew/</loc>
     <lastmod>2022-11-28T18:47:25-08:00</lastmod>
   </url><url>
-    <loc>https://kanebetter.github.io/</loc>
-    <lastmod>2022-11-28T18:47:25-08:00</lastmod>
-  </url><url>
-    <loc>https://kanebetter.github.io/posts/</loc>
-    <lastmod>2022-11-28T18:47:25-08:00</lastmod>
-  </url><url>
     <loc>https://kanebetter.github.io/categories/software/</loc>
-    <lastmod>2022-11-28T18:47:25-08:00</lastmod>
-  </url><url>
-    <loc>https://kanebetter.github.io/tags/</loc>
     <lastmod>2022-11-28T18:47:25-08:00</lastmod>
   </url><url>
     <loc>https://kanebetter.github.io/tags/homebrew/</loc>
