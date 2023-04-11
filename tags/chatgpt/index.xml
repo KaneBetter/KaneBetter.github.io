@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>“ChatGPT” on Kane</title>
+    <link>https://kanebetter.github.io/tags/chatgpt/</link>
+    <description>Recent content in “ChatGPT” on Kane</description>
+    <image>
+      <url>https://kanebetter.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://kanebetter.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 10 Apr 2023 17:01:40 -0700</lastBuildDate><atom:link href="https://kanebetter.github.io/tags/chatgpt/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Write Awesome Shell Script With ChatGPT</title>
+      <link>https://kanebetter.github.io/posts/how-to-write-awesome-shell-script-with-chatgpt/</link>
+      <pubDate>Mon, 10 Apr 2023 17:01:40 -0700</pubDate>
+      
+      <guid>https://kanebetter.github.io/posts/how-to-write-awesome-shell-script-with-chatgpt/</guid>
+      <description>How to Write Awesome Shell Script with ChatGPT function gclone() { if [[ $1 == &amp;#34;-h&amp;#34; || $1 == &amp;#34;--help&amp;#34; ]]; then echo &amp;#34;Clones a Git repository from the provided URL into the ~/git directory. If a repository URL is not provided, the function prompts&amp;#34; echo &amp;#34;the user to enter the URL. Optionally opens the cloned repository in VSCode if the user confirms the prompt.&amp;#34; echo &amp;#34;&amp;#34; echo &amp;#34;Usage: gclone [url]&amp;#34; echo &amp;#34; url (optional): The URL of the Git repository to clone.</description>
+    </item>
+    
+  </channel>
+</rss>
