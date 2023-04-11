@@ -1,7 +1,6 @@
 ---
 title: "Top12 Alfred Workflow"
 date: 2022-11-23T16:52:45-08:00
-draft: true
 tags: [“Alfred”]
 categories: ["Productivity"]
 ---

@@ -1,7 +1,6 @@
 ---
 title: "Intro to Homebrew"
 date: 2022-11-28T18:47:25-08:00
-draft: true
 tags: [“Homebrew”]
 Categories: ["Software"]
 ---

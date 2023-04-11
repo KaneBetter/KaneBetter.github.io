@@ -1,7 +1,6 @@
 ---
 title: "Everything About Git"
 date: 2022-11-09T09:52:48-08:00
-draft: true
 tags: [“Git”]
 categories: ["Git"]
 ---
@@ -52,7 +51,6 @@ Agree on a Branching Worflow in Your Team
   - different types of branches...
   - ..fulfill different types of jobs
   
-
 - Long-Running & Short-Lived Branches
   - exist through the complete lifetime of the project
   - often, they mirror “stages" in your dev life cycle
